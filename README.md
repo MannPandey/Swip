@@ -70,7 +70,7 @@ CLEAR Window is a **next‑generation multifunctional smart window** that integr
 ## 👨‍💻 Author
 **Shourya**  
 B.Tech ECE @ Gautam Buddha University  
-B.Sc Applied AI & Data Science @ IIT Jodhpur (Online)  
+B.Sc Applied AI & Data Science @ IIT Jodhpur 
 
 ---
 
